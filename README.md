@@ -1,17 +1,14 @@
 # Tic Tac Toe
 
----
 
 ## Introduction
 
 This small program demonstrates the use of [Minimax Algorithm](https://en.wikipedia.org/wiki/Minimax) for playing the game of [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
----
 
 ## Notes
 The game requires the library pygame and runs on Python 2.7. I tried installing and running the game using pygame installed on Python 3.6 but faced issues related to mouse events. Since the objective was not to have a beautiful looking GUI but just to demonstrate the usage of Minimax Algorithm for playing Tic Tac Toe, i went ahead using Python 2.7. Also, the GUI implemented isnt incredible, but works. The requirements.txt files gives the details of the environment I executed the code in and contains lot more libraries than we require for the game.
 
----
 
 ## TODO
 
